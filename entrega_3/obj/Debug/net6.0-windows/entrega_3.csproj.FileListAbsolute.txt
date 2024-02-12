@@ -1,0 +1,8 @@
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.csproj.AssemblyReference.cache
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.Form1.resources
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.csproj.GenerateResource.cache
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.AssemblyInfoInputs.cache
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.AssemblyInfo.cs
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.csproj.CoreCompileInputs.cache
+C:\Users\USER-LOCAL\source\repos\entrega_3\entrega_3\obj\Debug\net6.0-windows\entrega_3.sourcelink.json
